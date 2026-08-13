@@ -1,0 +1,35 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executable files
+*.exe
+*.out
+*.app
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
